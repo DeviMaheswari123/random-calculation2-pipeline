@@ -19,4 +19,4 @@ jobs:
           python-version: '3.x'  # Replace with your desired Python version
 
       - name: Run Python script  # Action to run the Python script
-        run: python random_calculation2.xlsx  # Replace with your script name if different
+        run: python randomcalc2.py  # Replace with your script name if different
