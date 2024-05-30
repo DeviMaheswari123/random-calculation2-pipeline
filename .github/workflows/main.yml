@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install openpyxl
 
-      - name: Run script1.py  # Action to run the first Python script
+      - name: Run randomcalc.py  # Action to run the first Python script
         run: python randomcalc.py
 
 
